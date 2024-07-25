@@ -31,5 +31,5 @@ La evidencia de los 41 ejercicio se encuentra en la carpeta llamada "ComandChall
 
 ## Punto #4
 ###  FIRMAS
-La evidencia de las firmas y sus invocaiones se encuentran en la carpeta llamada "FIRMAS"
+La evidencia de las firmas y sus invocaiones se encuentran en la carpeta llamada "Firmas"
 
