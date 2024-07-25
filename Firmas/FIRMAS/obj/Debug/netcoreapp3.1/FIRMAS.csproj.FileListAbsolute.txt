@@ -1,0 +1,5 @@
+C:\Users\user\Documents\scripting\Scripting\Firmas\FIRMAS\obj\Debug\netcoreapp3.1\FIRMAS.csproj.AssemblyReference.cache
+C:\Users\user\Documents\scripting\Scripting\Firmas\FIRMAS\obj\Debug\netcoreapp3.1\FIRMAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\scripting\Scripting\Firmas\FIRMAS\obj\Debug\netcoreapp3.1\FIRMAS.AssemblyInfoInputs.cache
+C:\Users\user\Documents\scripting\Scripting\Firmas\FIRMAS\obj\Debug\netcoreapp3.1\FIRMAS.AssemblyInfo.cs
+C:\Users\user\Documents\scripting\Scripting\Firmas\FIRMAS\obj\Debug\netcoreapp3.1\FIRMAS.csproj.CoreCompileInputs.cache
