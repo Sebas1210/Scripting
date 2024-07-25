@@ -96,6 +96,71 @@ class Program
     }
 }
  ```
+### Ejercicio Uso De Funciones
+   El ejercicio de uso de funciones utilizado fue el siguiente.
+  "Realice una función que lea una matriz de números enteros de NxM y calcule el promedio de cada fila y cada columna".
+
+  ```c#
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        // Definir dimensiones de la matriz
+        int N = 3; // Número de filas
+        int M = 4; // Número de columnas
+
+        // Generar matriz de números enteros aleatorios
+        int[,] matriz = new int[N, M];
+        Random random = new Random();
+        for (int i = 0; i < N; i++)
+        {
+            for (int j = 0; j < M; j++)
+            {
+                matriz[i, j] = random.Next(1, 101); // Números aleatorios entre 1 y 100
+            }
+        }
+
+        // Imprimir la matriz
+        Console.WriteLine("Matriz generada:");
+        for (int i = 0; i < N; i++)
+        {
+            for (int j = 0; j < M; j++)
+            {
+                Console.Write(matriz[i, j] + "\t");
+            }
+            Console.WriteLine();
+        }
+
+        // Calcular y mostrar el promedio de cada fila
+        Console.WriteLine("\nPromedio de cada fila:");
+        for (int i = 0; i < N; i++)
+        {
+            int sumaFila = 0;
+            for (int j = 0; j < M; j++)
+            {
+                sumaFila += matriz[i, j];
+            }
+            double promedioFila = (double)sumaFila / M;
+            Console.WriteLine("Fila {0}: {1}", i + 1, promedioFila);
+        }
+
+        // Calcular y mostrar el promedio de cada columna
+        Console.WriteLine("\nPromedio de cada columna:");
+        for (int j = 0; j < M; j++)
+        {
+            int sumaColumna = 0;
+            for (int i = 0; i < N; i++)
+            {
+                sumaColumna += matriz[i, j];
+            }
+            double promedioColumna = (double)sumaColumna / N;
+            Console.WriteLine("Columna {0}: {1}", j + 1, promedioColumna);
+        }
+    }
+}
+  ```
 
 ## Punto #2
 ### Actividad con la clase 
