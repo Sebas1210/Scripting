@@ -5,7 +5,11 @@
   "Realizar una función que calcule si una cadena es palindroma."
   La solución se encuentra en la carpeta llamada "cadena". 
 
-  ### Ejercicio n
+### Ejercicio Uso De Funciones
+   El ejercicio de uso de funciones utilizado fue el siguiente.
+  "Crea un programa en el cual se Realice una función que invierta 
+   un array de números enteros".
+   https://www.programiz.com/online-compiler/5zoZbgd5K2SRQ
 
 ## Punto #2
 ### Actividad con la clase 
