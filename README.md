@@ -162,6 +162,8 @@ class Program
 }
   ```
 
+Las preguntas de teoria se encuentran en el archivo "Scripting.docx
+
 ## Punto #2
 ### Actividad con la clase 
 La actividad se encuentra en el siguiente link.
