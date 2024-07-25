@@ -12,7 +12,7 @@
 La actividad se encuentra en el siguiente link.
 https://www.programiz.com/online-compiler/4Q1wy7REpj9dL 
 
-ejercicio de clase adivina  el número: Nuestro código utiliza varias funciones
+Ejercicio de clase, adivina  el número: Nuestro código utiliza varias funciones
  -GenerarNumeroSecreto:  Genera un número aleatorio.
  -ComprobarAdivinanza:  Compara la adivinanza del usuario con el número secreto y proporciona retroalimentación.
 
