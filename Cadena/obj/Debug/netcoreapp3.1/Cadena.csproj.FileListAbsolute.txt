@@ -1,0 +1,14 @@
+C:\Users\user\Documents\scripting\Scripting\Cadena\obj\Debug\netcoreapp3.1\Cadena.csproj.AssemblyReference.cache
+C:\Users\user\Documents\scripting\Scripting\Cadena\obj\Debug\netcoreapp3.1\Cadena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\scripting\Scripting\Cadena\obj\Debug\netcoreapp3.1\Cadena.AssemblyInfoInputs.cache
+C:\Users\user\Documents\scripting\Scripting\Cadena\obj\Debug\netcoreapp3.1\Cadena.AssemblyInfo.cs
+C:\Users\user\Documents\scripting\Scripting\Cadena\obj\Debug\netcoreapp3.1\Cadena.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\scripting\Scripting\Cadena\bin\Debug\netcoreapp3.1\Cadena.exe
+C:\Users\user\Documents\scripting\Scripting\Cadena\bin\Debug\netcoreapp3.1\Cadena.deps.json
+C:\Users\user\Documents\scripting\Scripting\Cadena\bin\Debug\netcoreapp3.1\Cadena.runtimeconfig.json
+C:\Users\user\Documents\scripting\Scripting\Cadena\bin\Debug\netcoreapp3.1\Cadena.runtimeconfig.dev.json
+C:\Users\user\Documents\scripting\Scripting\Cadena\bin\Debug\netcoreapp3.1\Cadena.dll
+C:\Users\user\Documents\scripting\Scripting\Cadena\bin\Debug\netcoreapp3.1\Cadena.pdb
+C:\Users\user\Documents\scripting\Scripting\Cadena\obj\Debug\netcoreapp3.1\Cadena.dll
+C:\Users\user\Documents\scripting\Scripting\Cadena\obj\Debug\netcoreapp3.1\Cadena.pdb
+C:\Users\user\Documents\scripting\Scripting\Cadena\obj\Debug\netcoreapp3.1\Cadena.genruntimeconfig.cache
