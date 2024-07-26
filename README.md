@@ -162,6 +162,7 @@ class Program
 }
   ```
 
+### Preguntas teoria
 Las preguntas de teoria se encuentran en el archivo "Scripting.docx
 
 ## Punto #2
