@@ -186,3 +186,7 @@ La evidencia de los 41 ejercicio se encuentra en la carpeta llamada "ComandChall
 ###  FIRMAS
 La evidencia de las firmas y sus invocaiones se encuentran en la carpeta llamada "Firmas"
 
+
+## Presentación
+Desde el siguiente link puedes acceder a la presentación https://www.canva.com/design/DAGL9Zg0NSs/_iv0cvC0MEcK56G_1LjACQ/edit?utm_content=DAGL9Zg0NSs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
