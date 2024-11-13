@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Georgia', serif;
+}
+
+body {
+    background-color: #2e2b24;
+    color: #f3f3f3;
+    line-height: 1.6;
+}
+
+header {
+    background: #4d4236;
+    color: #fff;
+    padding: 2em;
+    text-align: center;
+    border-bottom: 3px solid #d4a017;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+header img {
+    max-width: 150px;
+    margin-bottom: 1em;
+}
+
+header h1 {
+    font-size: 2.5em;
+    margin: 0.5em 0;
+    color: #d4a017;
+}
+
+header p {
+    font-size: 1.2em;
+    color: #e4d2b3;
+}
+
+.features, .enemies {
+    margin: 2em auto;
+    max-width: 800px;
+    padding: 1.5em;
+    background: #3c3832;
+    border-radius: 10px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.4);
+    border: 1px solid #d4a017;
+}
+
+.features h2, .enemies h2 {
+    text-align: center;
+    color: #d4a017;
+    margin-bottom: 1em;
+}
+
+.features ul {
+    list-style-type: disc;
+    padding-left: 1.5em;
+    color: #f3f3f3;
+}
+
+.features li {
+    margin-bottom: 0.7em;
+}
+
+.enemies .enemy {
+    background: #524a3f;
+    padding: 1em;
+    margin-top: 1em;
+    border-left: 4px solid #d4a017;
+    border-radius: 5px;
+}
+
+.enemies h3 {
+    color: #d4a017;
+}
+
+footer {
+    text-align: center;
+    padding: 1em;
+    background: #4d4236;
+    color: #e4d2b3;
+    border-top: 3px solid #d4a017;
+    margin-top: 2em;
+}
+
+footer p {
+    font-size: 0.9em;
+}
